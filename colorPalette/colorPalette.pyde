@@ -54,5 +54,5 @@ def draw():
       i += 1
 
 def mousePressed():
-  global cColorList, mode
+  global mode
   mode += 1
