@@ -1,2 +1,2 @@
 # autoDraw
-automatic image draw with random lines.
+draw image with random lines.
