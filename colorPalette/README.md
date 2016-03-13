@@ -1,2 +1,2 @@
 # colorPalette
-sort pixcels by HSB color parameters.
+sort pixels by HSB color parameters.
